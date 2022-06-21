@@ -1,0 +1,9 @@
+{
+  "day_interval": "Every {count} days",
+  "hahaha": "Every {count} days",
+"cat": {
+"one": "cat",
+"other": "cats",
+"zero": "cats"
+}
+}
